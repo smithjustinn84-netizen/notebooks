@@ -10,7 +10,7 @@ This repository contains hands-on examples and tutorials for learning Kotlin cor
 
 ### Coroutines/
 - **[basics.ipynb](Coroutines/basics.ipynb)** - Fundamental coroutine patterns including launch, async/await, structured concurrency, cancellation, and Flow basics
-- **[101_kotlin_coroutines.ipynb](Coroutines/101_kotlin_coroutines.ipynb)** - Comprehensive introduction to Kotlin coroutines
+- **[101_kotlin_coroutines.ipynb](Coroutines/notebook_setup.ipynb)** - Comprehensive introduction to Kotlin coroutines
 - **[cancellation_basics.ipynb](Coroutines/cancellation_basics.ipynb)** - Deep dive into coroutine cancellation mechanisms
 - **[exceptions.ipynb](Coroutines/exceptions.ipynb)** - Exception handling patterns in coroutines
 - **[flows.ipynb](Coroutines/flows.ipynb)** - Advanced Flow operations and patterns
@@ -55,7 +55,7 @@ This repository contains hands-on examples and tutorials for learning Kotlin cor
 For beginners, we recommend following this order:
 
 1. **[basics.ipynb](Coroutines/basics.ipynb)** - Start here for fundamental concepts
-2. **[101_kotlin_coroutines.ipynb](Coroutines/101_kotlin_coroutines.ipynb)** - Comprehensive overview
+2. **[101_kotlin_coroutines.ipynb](Coroutines/notebook_setup.ipynb)** - Comprehensive overview
 3. **[cancellation_basics.ipynb](Coroutines/cancellation_basics.ipynb)** - Understanding cancellation
 4. **[exceptions.ipynb](Coroutines/exceptions.ipynb)** - Error handling patterns
 5. **[flows.ipynb](Coroutines/flows.ipynb)** - Reactive streams with Flow
